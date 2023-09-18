@@ -1,0 +1,24 @@
+{
+    "icon": [
+        {
+            "id": 800,
+            "iconURL": "https://openweathermap.org/img/wn/01n@2x.png"
+        },
+        {
+            "id": 602,
+            "iconURL": "https://openweathermap.org/img/wn/13d@2x.png"
+        },
+        {
+            "id": 781,
+            "iconURL": "https://openweathermap.org/img/wn/50d@2x.png"
+        },
+        {
+            "id": 602,
+            "iconURL": "https://openweathermap.org/img/wn/50d@2x.png"
+        },
+        {
+            "id": 221,
+            "iconURL": "https://openweathermap.org/img/wn/11d@2x.png"
+        }
+    ]
+}
